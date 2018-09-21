@@ -5,4 +5,5 @@
 - git log
 - git reset --hard <hash>
 - git remote add origin
-- git push -u origin master
+- git push -u
+'fefieijfik
